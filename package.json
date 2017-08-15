@@ -1,0 +1,14 @@
+{
+  "name": "usemongo",
+  "version": "1.0.0",
+  "description": "sample application to test mongodb interface",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishwanath GAjavelly",
+  "license": "ISC",
+  "dependencies": {
+    "mongojs": "^2.4.1"
+  }
+}
